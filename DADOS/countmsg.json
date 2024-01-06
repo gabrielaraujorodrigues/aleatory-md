@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "groupId": "120363176871845777@g.us",
+    "numbers": [
+      {
+        "id": "558695446752@s.whatsapp.net",
+        "messages": 12,
+        "figus": 1,
+        "cmd_messages": 9,
+        "aparelho": "Android ツ"
+      },
+      {
+        "id": "5521991032383@s.whatsapp.net",
+        "messages": 11,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ",
+        "figus": 2
+      },
+      {
+        "id": "5521996055548@s.whatsapp.net",
+        "messages": 3,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ",
+        "figus": 1
+      },
+      {
+        "id": "5521981662593@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ",
+        "figus": 2
+      },
+      {
+        "id": "556992314049@s.whatsapp.net",
+        "messages": 1,
+        "cmd_messages": 0,
+        "aparelho": "Android ツ",
+        "figus": 1
+      }
+    ]
+  },
+  {
+    "groupId": "120363192941783691@g.us",
+    "numbers": [
+      {
+        "id": "558695446752@s.whatsapp.net",
+        "messages": 2,
+        "figus": 0,
+        "cmd_messages": 6,
+        "aparelho": "Android ツ"
+      }
+    ]
+  }
+]
